@@ -1,0 +1,25 @@
+{
+  "name": "angular-resource-typeahead",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ChoiceScreening/norad",
+  "authors": [
+    "Zach Curtis <zachariahtimothy@gmail.com>"
+  ],
+  "description": "Typeahead plugin using Angular Resources",
+  "main": "angular-resource-typeahead.js",
+  "keywords": [
+    "angular",
+    "typeahead",
+    "resource",
+    "typeahead"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
