@@ -1,10 +1,13 @@
 {
   "name": "angular-resource-typeahead",
-  "version": "0.0.0",
-  "homepage": "https://github.com/ChoiceScreening/norad",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zachariahtimothy/angular-resource-typeahead",
   "authors": [
     "Zach Curtis <zachariahtimothy@gmail.com>"
   ],
+  "dependencies": {
+    "typeahead.js": "~0.9.3"
+  },
   "description": "Typeahead plugin using Angular Resources",
   "main": "angular-resource-typeahead.js",
   "keywords": [
